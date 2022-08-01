@@ -35,19 +35,4 @@ public class FileWriter
             sw.WriteLine("##################");
         }
     }
-
-
-    // if (!File.Exists(path))
-        // {
-        //     using (StreamWriter sw = File.CreateText(path))
-        //     {
-        // sw.WriteLine("===================");
-        // sw.WriteLine(Link.Folder);
-        // sw.WriteLine(Link.Title);
-        // sw.WriteLine(Link.Address);
-        // sw.WriteLine(Link.Description);
-        // sw.WriteLine("##################");
-        //     }
-        // }
-    
 }

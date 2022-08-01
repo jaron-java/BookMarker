@@ -1,5 +1,7 @@
 namespace BookMarker;
 
+// I feel this is a really heavy handed way of doing this...
+
 public class Link
 {
     public static string Title { get; set; }
